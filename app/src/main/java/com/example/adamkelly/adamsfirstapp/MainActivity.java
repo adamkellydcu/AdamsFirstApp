@@ -2,6 +2,7 @@ package com.example.adamkelly.adamsfirstapp;
 
 //package com.tutorials.hp.mysqlinsert;
 
+// THIS IS MY TEST CODE
         import android.os.Bundle;
         import android.support.v7.app.AppCompatActivity;
         import android.support.v7.widget.Toolbar;
