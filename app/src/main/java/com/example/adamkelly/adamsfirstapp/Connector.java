@@ -1,7 +1,7 @@
 package com.example.adamkelly.adamsfirstapp;
 
 /**
- * Created by adamkelly on 08/03/2018.
+ * Created by adamkelly on 08/03/2018. test from github
  */
         import java.io.IOException;
         import java.net.HttpURLConnection;
