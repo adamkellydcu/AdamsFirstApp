@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 //START ASYNC TASK
-                com.example.adamkelly.adamsfirstapp.Sender s = new com.example.adamkelly.adamsfirstapp.Sender(MainActivity.this, urlAddress, nameTxt, posTxt, teamTxt);
+                com.example.adamkelly.adamsfirstapp.Sender s = new com.example.adamkelly.adamsfirstapp.Sender(MainActivity.this, urlAddress, nameTxt, posTxt, teamTxt, macTxt);
                 s.execute();
             }
         });
